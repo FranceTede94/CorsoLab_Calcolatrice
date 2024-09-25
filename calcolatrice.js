@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
         let numero1 = parseInt(numeri[i].innerText);
         console.log("Numero valore " + numero1);
   
+        //ciao
         //commento prova
         document.getElementById("somma").onclick = function() {
           for (let i = 0; i < numeri.length; i++) {
